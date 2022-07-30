@@ -10,7 +10,7 @@
 ## Install
 
 Clone project repository:
-- git clone 
+- git clone https://github.com/adrian351/LibroCrud.git
 
 ## Install dependencies:
 - composer install
